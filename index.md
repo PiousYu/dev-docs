@@ -1,6 +1,6 @@
 ﻿# Phoenix
 
-![Phoenix.jpg](helps/Help_R/phoenixlogo.jpg "title")
+![Phoenix.jpg](phoenix.jpg "title")
 
 ##Phoenix简介
 建设中...
