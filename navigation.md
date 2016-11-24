@@ -2,25 +2,20 @@
 
 [MarkDown](helps/Help.md)
 
-[Menu Item 1]()
+[规范]()
 
-  * ## SubMenu Heading 1
-  * [SubMenu Item 1](subitem1.md)
-  * [SubMenu Item 2](subitem2.md)
+  * ## UI
+  * [UI规范](rules/ui_rules.md)
+  * [UI控件库](rules/ui_controls.md)
   - - - -
-  * ## SubMenu Heading 2
-  * [SubMenu Item 3](subitem3.md)
+  * ## 脚本
+  * [功能脚本规范](rules/lua_program_rules.md)
+  * [子程序脚本规范](rules/lua_function_rules.md)
   
 [模板]()
 
   * [sample1](helps/sample1.md)
   * [sample2](helps/sample2.md)
-  
-[Developer]()
-
-  * [Hacking HOWTO](developer/hacking.md)
-  * [OAuth docs](developer/oauth.md)
-  * [Crypto docs](developer/crypto.md)
 
 [关于](About.md)
 
