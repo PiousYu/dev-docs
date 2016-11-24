@@ -1,6 +1,8 @@
-# Phoenix Helper
+﻿# Phoenix Helper
 
 [MarkDown](helps/Help.md)
+
+[模板](helps/m_interface1.md)
 
 [关于](About.md)
 
