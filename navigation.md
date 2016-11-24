@@ -6,5 +6,5 @@
 
 [关于](About.md)
 
-[gimmick:theme (inverse: false)](bootstrap)
+[gimmick:theme (inverse: false)](united)
 [gimmick:ThemeChooser](主题)
