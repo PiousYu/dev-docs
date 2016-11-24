@@ -13,8 +13,8 @@
   
 [模板]()
 
-  * [sample1](helps/sample1.md)
-  * [sample2](helps/sample2.md)
+  * ## [sample1](helps/sample1.md)
+  * ## [sample2](helps/sample2.md)
 
 [关于](About.md)
 
