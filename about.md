@@ -20,3 +20,4 @@
 
 * [Git和Github简单教程](http://www.cnblogs.com/schaepher/p/5561193.html) 
 * [GitHub团队项目合作流程](http://www.cnblogs.com/schaepher/p/4933873.html)
+* [GitHub Desktop 使用](http://m.blog.csdn.net/article/details?id=50261857)
