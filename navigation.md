@@ -17,7 +17,7 @@
   * [sample1](helps/sample1.md)
   * [sample2](helps/sample2.md)
 
-[关于](About.md)
+[关于](about.md)
 
 [gimmick:theme (inverse: false)](united)
 [gimmick:ThemeChooser](主题)
