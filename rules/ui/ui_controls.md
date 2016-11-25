@@ -6,6 +6,17 @@ Ant Design 是一个致力于提升『用户』和『设计者』使用体验的
 
 ---
 
+## 全局样式库
+
+### generic
+![generic](ui_controls_files/generic.jpg  "generic")
+
+### black
+
+### other
+
+---
+
 ## button按钮
 基础组件，触发业务逻辑时使用
 
@@ -32,6 +43,161 @@ Ant Design 是一个致力于提升『用户』和『设计者』使用体验的
 </script>
 
 ```
+
+## Input 输入框
+基本表单组件，支持 input 和 textarea，并在原生控件基础上进行了功能扩展，可以组合使用。
+
+### 代码示例
+![示例](ui_controls_files/input.bmp  "button")
+
+```
+<template>
+    <i-button>Default</i-button>
+    <i-button type="primary">Primary</i-button>
+    <i-button type="ghost">Ghost</i-button>
+    <i-button type="dashed">Dashed</i-button>
+    <i-button type="text">Text</i-button>
+    <br><br>
+    <i-button type="info">信息按钮</i-button>
+    <i-button type="success">成功按钮</i-button>
+    <i-button type="warning">警告按钮</i-button>
+    <i-button type="error">错误按钮</i-button>
+</template>
+<script>
+    export default {
+        
+    }
+</script>
+
+```
+
+## bitport 端口控件
+io控件
+### 代码示例1
+![示例](ui_controls_files/bitport1.bmp  "button")
+
+```
+<template>
+    <i-button>Default</i-button>
+    <i-button type="primary">Primary</i-button>
+    <i-button type="ghost">Ghost</i-button>
+    <i-button type="dashed">Dashed</i-button>
+    <i-button type="text">Text</i-button>
+    <br><br>
+    <i-button type="info">信息按钮</i-button>
+    <i-button type="success">成功按钮</i-button>
+    <i-button type="warning">警告按钮</i-button>
+    <i-button type="error">错误按钮</i-button>
+</template>
+<script>
+    export default {
+        
+    }
+</script>
+
+```
+### 代码示例1
+![示例](ui_controls_files/bitport2.bmp  "button")
+
+```
+<template>
+    <i-button>Default</i-button>
+    <i-button type="primary">Primary</i-button>
+    <i-button type="ghost">Ghost</i-button>
+    <i-button type="dashed">Dashed</i-button>
+    <i-button type="text">Text</i-button>
+    <br><br>
+    <i-button type="info">信息按钮</i-button>
+    <i-button type="success">成功按钮</i-button>
+    <i-button type="warning">警告按钮</i-button>
+    <i-button type="error">错误按钮</i-button>
+</template>
+<script>
+    export default {
+        
+    }
+</script>
+
+```
+
+## Switch 开关
+在两种状态间切换时用到的开关选择器。
+### 代码示例
+![示例](ui_controls_files/switch.bmp  "button")
+
+```
+<template>
+    <i-button>Default</i-button>
+    <i-button type="primary">Primary</i-button>
+    <i-button type="ghost">Ghost</i-button>
+    <i-button type="dashed">Dashed</i-button>
+    <i-button type="text">Text</i-button>
+    <br><br>
+    <i-button type="info">信息按钮</i-button>
+    <i-button type="success">成功按钮</i-button>
+    <i-button type="warning">警告按钮</i-button>
+    <i-button type="error">错误按钮</i-button>
+</template>
+<script>
+    export default {
+        
+    }
+</script>
+
+```
+
+## Slider 滑块
+滑动输入器，用于在数值区间/自定义区间内进行选择，支持连续或离散值。
+### 代码示例
+![示例](ui_controls_files/slider.bmp  "button")
+
+```
+<template>
+    <i-button>Default</i-button>
+    <i-button type="primary">Primary</i-button>
+    <i-button type="ghost">Ghost</i-button>
+    <i-button type="dashed">Dashed</i-button>
+    <i-button type="text">Text</i-button>
+    <br><br>
+    <i-button type="info">信息按钮</i-button>
+    <i-button type="success">成功按钮</i-button>
+    <i-button type="warning">警告按钮</i-button>
+    <i-button type="error">错误按钮</i-button>
+</template>
+<script>
+    export default {
+        
+    }
+</script>
+
+```
+
+## emg 紧停按钮
+异常紧急停止时使用。
+### 代码示例
+![示例](ui_controls_files/estop.bmp  "button")
+
+```
+<template>
+    <i-button>Default</i-button>
+    <i-button type="primary">Primary</i-button>
+    <i-button type="ghost">Ghost</i-button>
+    <i-button type="dashed">Dashed</i-button>
+    <i-button type="text">Text</i-button>
+    <br><br>
+    <i-button type="info">信息按钮</i-button>
+    <i-button type="success">成功按钮</i-button>
+    <i-button type="warning">警告按钮</i-button>
+    <i-button type="error">错误按钮</i-button>
+</template>
+<script>
+    export default {
+        
+    }
+</script>
+
+```
+
 ## 前端实现
 
 我们采用 [React](http://facebook.github.io/react/) 封装了一套 Ant Design 的组件库，也欢迎社区其他框架的实现版本。
